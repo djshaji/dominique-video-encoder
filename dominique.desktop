@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Dominique
+GenericName= Audio / Video Encoder Frontend
+Comment=Dominique provides an easy to use GUI for Mencoder
+Exec=dominique
+Categories=Application;Multimedia
+StartupNotify=true
